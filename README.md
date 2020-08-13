@@ -25,13 +25,13 @@ Estou atualmente na <a href="https://www.linkedin.com/company/post-machine/">Pos
 
 ## Me siga nas redes
 <p>
-  <a href="https://www.linkedin.com/in/marcus-vinicius-silva-costa-6098911a4/" target="_blank">
+  <a href="https://www.linkedin.com/in/gabriel-mendonca-pereira/" target="_blank">
     <img src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn">
   </a> &nbsp;
-  <a href="mailto:dev.mvsc@gmail.com">
+  <a href="mailto:crowofcode@gmail.com>
      <img src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" width="30px" alt="mail" target="_blank">
   </a> &nbsp;&nbsp;
-  <a href="https://github.com/dev-viniciuss">
+  <a href="https://github.com/loadingGabriel">
      <img src="https://github.com/deut-erium/deut-erium/blob/master/assets/github.svg" width="30px" alt="github" target="_blank">
   </a> &nbsp;&nbsp;
   <a href="https://t.me/MVinicius">
