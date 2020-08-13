@@ -22,3 +22,22 @@ Estou atualmente na <a href="https://www.linkedin.com/company/post-machine/">Pos
 
 ## :octocat: Git Stats
 ![LoadingGabriel Github Stats](https://github-readme-stats.vercel.app/api?username=loadingGabriel&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+## Me siga nas redes
+<p>
+  <a href="https://www.linkedin.com/in/marcus-vinicius-silva-costa-6098911a4/" target="_blank">
+    <img src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn">
+  </a> &nbsp;
+  <a href="mailto:dev.mvsc@gmail.com">
+     <img src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" width="30px" alt="mail" target="_blank">
+  </a> &nbsp;&nbsp;
+  <a href="https://github.com/dev-viniciuss">
+     <img src="https://github.com/deut-erium/deut-erium/blob/master/assets/github.svg" width="30px" alt="github" target="_blank">
+  </a> &nbsp;&nbsp;
+  <a href="https://t.me/MVinicius">
+     <img src="https://logodownload.org/wp-content/uploads/2017/11/telegram-logo.png" width="30px" alt="Telegram" target="_blank">
+  </a> &nbsp;&nbsp;
+   <a href="https://discord.com/users/Marcus Vinicius#9740">
+     <img src="https://github.com/deut-erium/deut-erium/blob/master/assets/discord.svg" width="30px" alt="discord" target="_blank">
+  </a> &nbsp;&nbsp;
+</p>
