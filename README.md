@@ -43,4 +43,7 @@ Estou atualmente na <a href="https://www.linkedin.com/company/post-machine/">Pos
    <a href="https://discord.com/users/Loading Gabriel#7444">
      <img src="https://github.com/deut-erium/deut-erium/blob/master/assets/discord.svg" width="30px" alt="discord" target="_blank">
   </a> &nbsp;&nbsp;
+  <a href="https://app.rocketseat.com.br/me/gabriel-mendonca-pereira">
+     <img src="https://scontent.ffor17-1.fna.fbcdn.net/v/t1.0-9/117157879_723271164886027_6832852747032950145_o.png?_nc_cat=111&_nc_sid=09cbfe&_nc_ohc=ADCS2wG_8ZIAX90WhaE&_nc_ht=scontent.ffor17-1.fna&oh=bedb590ccdd264f3352a3c0c79635132&oe=5F5C3866" width="30px" alt="discord" target="_blank">
+  </a> &nbsp;&nbsp;
 </p>
