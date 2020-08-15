@@ -31,9 +31,6 @@ Estou atualmente na <a href="https://www.linkedin.com/company/post-machine/">Pos
   <a href="https://www.instagram.com/loading_gabriel/">
      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/132px-Instagram_logo_2016.svg.png" width="30px" alt="discord" target="_blank">
   </a> &nbsp;&nbsp;
-  <a href="mailto:crowofcode@gmail.com">
-     <img src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" width="30px" alt="mail" target="_blank">
-  </a> &nbsp;&nbsp;
   <a href="https://github.com/loadingGabriel">
      <img src="https://github.com/deut-erium/deut-erium/blob/master/assets/github.svg" width="30px" alt="github" target="_blank">
   </a> &nbsp;&nbsp;
