@@ -32,9 +32,6 @@ Estou atualmente na <a href="https://www.linkedin.com/company/post-machine/">Pos
   <a href="https://github.com/loadingGabriel">
      <img src="https://github.com/deut-erium/deut-erium/blob/master/assets/github.svg" width="30px" alt="github" target="_blank">
   </a> &nbsp;&nbsp;
-  <a href="https://t.me/LoadingGabriel">
-     <img src="https://logodownload.org/wp-content/uploads/2017/11/telegram-logo.png" width="30px" alt="Telegram" target="_blank">
-  </a> &nbsp;&nbsp;
    <a href="https://discord.com/users/Loading Gabriel#7444">
      <img src="https://github.com/deut-erium/deut-erium/blob/master/assets/discord.svg" width="30px" alt="discord" target="_blank">
   </a> &nbsp;&nbsp;
