@@ -4,7 +4,7 @@
 Hi, meu nome e Gabriel, atualmente com 18 anos em busca de ajudar as pessoas com a programação, assim como ela me ajudou a uns dois anos atrás.
 
 ### 💼  Trabalhando 
-Estou atualmente na <a href="https://www.linkedin.com/company/post-machine/">Post Machine</a> exercendo o cargo de Desenvolvedor Front-end.
+Estou atualmente na ? exercendo o cargo de Desenvolvedor Front-end.
 
 ### 🤯 Conhecimento nas seguintes tecnologias
 <code><img height="20" src="https://ionicframework.com/jp/docs/assets/icons/logo-react-icon.png"></code>
