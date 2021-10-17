@@ -26,14 +26,11 @@ Estou atualmente na ? exercendo o cargo de Desenvolvedor Front-end.
   <a href="https://www.linkedin.com/in/gabriel-mendonca-pereira/" target="_blank">
     <img src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn">
   </a> &nbsp;
-  <a href="https://www.instagram.com/loading_gabriel/">
+  <a href="https://www.instagram.com/gabriel._.mend/">
      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/132px-Instagram_logo_2016.svg.png" width="30px" alt="discord" target="_blank">
   </a> &nbsp;&nbsp;
   <a href="https://github.com/loadingGabriel">
      <img src="https://github.com/deut-erium/deut-erium/blob/master/assets/github.svg" width="30px" alt="github" target="_blank">
-  </a> &nbsp;&nbsp;
-   <a href="https://discord.com/users/Loading Gabriel#7444">
-     <img src="https://github.com/deut-erium/deut-erium/blob/master/assets/discord.svg" width="30px" alt="discord" target="_blank">
   </a> &nbsp;&nbsp;
   <a href="https://app.rocketseat.com.br/me/gabriel-mendonca-pereira">
      <img src="https://avatars1.githubusercontent.com/u/28929274?s=280&v=4" width="30px" alt="rocketseat" target="_blank">
