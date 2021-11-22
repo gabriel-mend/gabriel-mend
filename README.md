@@ -1,7 +1,8 @@
-## 🖖🏻 Hello world
-
 ### 👨🏻‍💻  Sobre mim
-Hi, meu nome e Gabriel, atualmente com 18 anos em busca de ajudar as pessoas com a programação, assim como ela me ajudou a uns dois anos atrás.
+🖖🏻 Olá, meu nome é Gabriel, atualmente com 18 anos já atuo na área.
+Programando desde meus 15 anos com amor por essa área, e hoje com uma imensa vontade de compartilhar o que eu estou aprendendo e acabar ajudando alguém assim como a programação me ajudou.
+
+Buscando sempre aprimorar e aprender nas tecnologias mais utilizadas do mercado. 🚀
 
 ### 💼  Trabalhando 
 Estou atualmente na Universidade Ceuma exercendo o cargo de Desenvolvedor Front-end.
@@ -16,10 +17,6 @@ Estou atualmente na Universidade Ceuma exercendo o cargo de Desenvolvedor Front-
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://imagens.tiespecialistas.com.br/2015/02/git.jpg"></code>
 
-### :octocat: Git Stats
-![](https://komarev.com/ghpvc/?username=loadingGabriel)
-
-![LoadingGabriel Github Stats](https://github-readme-stats.vercel.app/api?username=loadingGabriel&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 ### 📲  Me siga nas redes
 <p>
