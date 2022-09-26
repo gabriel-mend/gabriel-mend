@@ -1,5 +1,5 @@
 ### 👨🏻‍💻  Sobre mim
-🖖🏻 Olá, meu nome é Gabriel, atualmente com 18 anos já atuo na área.
+🖖🏻 Olá, meu nome é Gabriel, atualmente com 19 anos já atuo na área.
 Programando desde meus 15 anos com amor por essa área, e hoje com uma imensa vontade de compartilhar o que eu estou aprendendo e acabar ajudando alguém assim como a programação me ajudou.
 
 ### 💼  Trabalhando 
