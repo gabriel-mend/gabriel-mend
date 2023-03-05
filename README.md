@@ -1,9 +1,9 @@
 ### 👨🏻‍💻  Sobre mim
-🖖🏻 Olá, meu nome é Gabriel, atualmente com 19 anos já atuo na área.
+🖖🏻 Olá, meu nome é Gabriel, atualmente com 20 anos já atuo na área.
 Programando desde meus 15 anos com amor por essa área, e hoje com uma imensa vontade de compartilhar o que eu estou aprendendo e acabar ajudando alguém assim como a programação me ajudou.
 
 ### 💼  Trabalhando 
-Estou atualmente na Universidade Ceuma exercendo o cargo de Desenvolvedor Front-end.
+Estou atualmente na Universidade Ceuma exercendo o cargo de Desenvolvedor Pleno.
 
 ### 🤯 Conhecimento nas seguintes tecnologias
 <code><img height="20" src="https://ionicframework.com/jp/docs/assets/icons/logo-react-icon.png"></code>
