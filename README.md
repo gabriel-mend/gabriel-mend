@@ -1,33 +1,21 @@
-### 👨🏻‍💻  Sobre mim
-🖖🏻 Olá, meu nome é Gabriel, atualmente com 20 anos já atuo na área.
-Programando desde meus 15 anos com amor por essa área, e hoje com uma imensa vontade de compartilhar o que eu estou aprendendo e acabar ajudando alguém assim como a programação me ajudou.
+👋 Olá! Eu sou Gabriel Mendonça Pereira, um apaixonado desenvolvedor frontend com 5 anos de experiência na área. Minha especialidade é o desenvolvimento de aplicações web modernas com foco em performance e usabilidade.
 
-### 💼  Trabalhando 
-Estou atualmente na Universidade Ceuma exercendo o cargo de Desenvolvedor Pleno.
+💼 Atualmente, trabalho como desenvolvedor frontend especializado em Next.js, uma poderosa biblioteca React que me permite criar aplicações web de alto desempenho com facilidade. Estou constantemente explorando novas tecnologias e tendências para aprimorar minha habilidade técnica e fornecer soluções inovadoras.
 
-### 🤯 Conhecimento nas seguintes tecnologias
-<code><img height="20" src="https://ionicframework.com/jp/docs/assets/icons/logo-react-icon.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://imagens.tiespecialistas.com.br/2015/02/git.jpg"></code>
+🚀 Sou um entusiasta do código limpo e modular, sempre buscando escrever códigos elegantes e de fácil manutenção. Acredito na importância de uma comunicação eficaz e trabalho em equipe para garantir o sucesso dos projetos em que estou envolvido.
+
+📈 Além de meu trabalho profissional, também gosto de contribuir para a comunidade open-source. Estou sempre em busca de oportunidades para compartilhar meu conhecimento e ajudar outros desenvolvedores a crescerem em suas jornadas.
+
+💻 Algumas das tecnologias que utilizo diariamente incluem:
+- HTML, CSS, JavaScript (ES6+)
+- React, Next.js, React Native
+- Git, GitHub
+- Docker, Kubernetes
+
+📫 Vamos colaborar? Estou aberto a novos projetos e parcerias interessantes. Fique à vontade para me contatar através do e-mail crowofcode@gmail.com ou pelas redes sociais [LinkedIn, Twitter, etc.].
 
 
-### 📲  Me siga nas redes
-<p>
-  <a href="https://www.linkedin.com/in/gabriel-mendonca-pereira/" target="_blank">
-    <img src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn">
-  </a> &nbsp;
-  <a href="https://www.instagram.com/gabriel._.mend/">
-     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/132px-Instagram_logo_2016.svg.png" width="30px" alt="discord" target="_blank">
-  </a> &nbsp;&nbsp;
-  <a href="https://github.com/loadingGabriel">
-     <img src="https://github.com/deut-erium/deut-erium/blob/master/assets/github.svg" width="30px" alt="github" target="_blank">
-  </a> &nbsp;&nbsp;
-  <a href="https://app.rocketseat.com.br/me/gabriel-mendonca-pereira">
-     <img src="https://avatars1.githubusercontent.com/u/28929274?s=280&v=4" width="30px" alt="rocketseat" target="_blank">
-  </a> &nbsp;&nbsp;
-</p>
+
+
+
+
