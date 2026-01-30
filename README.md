@@ -1,20 +1,24 @@
-👋 Olá! Eu sou Gabriel Mendonça Pereira, um apaixonado desenvolvedor frontend com 5 anos de experiência na área. Minha especialidade é o desenvolvimento de aplicações web modernas com foco em performance e usabilidade.
+# 👋 Olá, eu sou Gabriel Mendonça Pereira
+Sou **Desenvolvedor Fullstack Sênior**, com forte atuação em **Frontend**, apaixonado por criar aplicações web escaláveis, performáticas e acessíveis. Tenho mais de **6 anos de experiência** construindo e evoluindo produtos digitais em ambientes de alta escala, sempre com foco em qualidade, arquitetura e impacto real no negócio.
 
-💼 Atualmente, trabalho como desenvolvedor frontend especializado em Next.js, uma poderosa biblioteca React que me permite criar aplicações web de alto desempenho com facilidade. Estou constantemente explorando novas tecnologias e tendências para aprimorar minha habilidade técnica e fornecer soluções inovadoras.
+## 🚀 Sobre mim
+- 💻 Desenvolvedor Fullstack com forte especialização em Frontend  
+- ⚛️ Especialista em **React, Next.js e TypeScript**  
+- 🧠 Experiência com **arquitetura de software, micro frontends e design systems**  
+- 🧪 Atuação com **testes automatizados (Jest, Playwright)**  
+- ♿ Entusiasta de **acessibilidade web (WCAG, HTML semântico, ARIA)**  
+- 🤖 Explorando **IA Generativa, LLMs e automações inteligentes**  
 
-📈 Além de meu trabalho profissional, também gosto de contribuir para a comunidade open-source. Estou sempre em busca de oportunidades para compartilhar meu conhecimento e ajudar outros desenvolvedores a crescerem em suas jornadas.
+## 🛠️ Tecnologias & Ferramentas
+- **Frontend**: React, Next.js, TypeScript, JavaScript, HTML semântico, CSS, Tailwind
+- **Backend**: Java (Spring Boot), Node.js, APIs REST
+- **Arquitetura & Qualidade**: Clean Architecture, SOLID, Testes Automatizados
+- **DevOps & Infra**: Git, CI/CD, Docker, Kubernetes, AWS
 
-💻 Algumas das tecnologias que utilizo diariamente incluem:
-- HTML, CSS, JavaScript
-- React, Next.js, React Native
-- Git, GitHub
-- Docker, Kubernetes
-- Java, Nodejs, Strapi
+## 🌍 Onde me encontrar
+- 💼 LinkedIn: https://linkedin.com/in/gabriel-mendonca-pereira  
+- 💻 GitHub: https://github.com/gabriel-mend  
+- 🎥 YouTube: https://youtube.com/@gabrieldocode  
+- 📫 Email: **gabrieldevmend@icloud.com**
 
-📫 Vamos colaborar? Estou aberto a novos projetos e parcerias interessantes. Fique à vontade para me contatar através do e-mail crowofcode@gmail.
-
-
-
-
-
-
+⭐ Fique à vontade para explorar meus repositórios, abrir issues ou trocar ideias!
